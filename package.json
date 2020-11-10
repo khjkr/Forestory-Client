@@ -1,0 +1,10 @@
+{
+  "name": "forestory-client",
+  "version": "1.0.0",
+  "description": "Forestory client",
+  "main": "index.js",
+  "repository": "https://github.com/khjkr/Forestory-Client.git",
+  "author": "khjkr",
+  "license": "GPL-3.0",
+  "private": false
+}
